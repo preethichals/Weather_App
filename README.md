@@ -2,11 +2,12 @@
 <h3>"Weather App" Using React Context API</h3>
 Live Link =  <a href="https://luxury-dragon-e3dbaa.netlify.app" target="_blank">     Click Me!!!      </a>
 <br/>
+<br/>
 
 <img src="./Live.jpg" alt="Weather">
-
-<h3>In the project directory,</h3>
 <br/>
+<h3>In the project directory,</h3>
+
 
 <h4>npm install</h4>
 

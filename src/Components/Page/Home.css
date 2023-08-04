@@ -21,6 +21,10 @@ body {
     height: 100v;
     background-image: url('../../bg.jpg');
 }
+.icon{
+    background-color: #afafaf;
+    border-radius: 20%;
+}
 
 .card {
     background:#ffffff;
